@@ -2,4 +2,4 @@ env:
   LOG_LEVEL: info
   APP_NAME: factory-b
   REGION: busan
-replicaCount: 2
+replicaCount: 3
