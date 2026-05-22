@@ -1,0 +1,4 @@
+env:
+  LOG_LEVEL: debug
+  APP_NAME: factory-a
+  REGION: seoul

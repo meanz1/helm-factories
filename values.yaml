@@ -1,0 +1,9 @@
+replicaCount: 1
+
+image:
+  repository: nginx
+  tag: latest
+
+env:
+  LOG_LEVEL: info
+  APP_NAME: factory-app
